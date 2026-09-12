@@ -1,0 +1,6 @@
+{
+  "name": "Ton Duc Minh Portfolio",
+  "description": "Personal Chemistry Portfolio of Ton Duc Minh - Hanoi-Amsterdam High School for US College Admissions",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
